@@ -4,7 +4,7 @@
 🔭 I’m currently working on finishing my MSc, exploring backend projects, and my very own secret game.<br>
 🌱 I’m currently learning more about backend architecture and refining my development skills.<br>
 🥰 Passionate about building PCs and tinkering with electronic gadgets.<br>
-⚡ Fun fact: I am a big fan of stories in literature and games and am always on the lookout for the next great story to dive into.
+⚡ Fun fact: I am a big fan of stories in literature and games and am always on the lookout for the next great story to dive into.<br>
 💬 Ask me about my favourite games.<br>
 
 
